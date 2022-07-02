@@ -1,0 +1,22 @@
+.proj{
+    margin-top: 2rem;
+    color: #8ee4af;
+    font-size: 3rem;
+  }
+
+  .img13 {
+    box-shadow: 10px 10px 8px #888888;
+  }
+
+  .cardce{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .iconLeft {
+    margin-left: auto;
+  
+  }
+  .title{
+    color: black;
+  }

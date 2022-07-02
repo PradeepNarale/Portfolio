@@ -1,0 +1,79 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap");
+/*
+body {
+    display: grid;
+    place-items: center;
+    font-family: 'Manrope', sans-serif;
+    background: #000;
+    color:#fff;
+}
+
+
+*/
+
+
+
+h1.hire__text {
+  font-size:3rem;
+  margin-top: 2rem;
+  color: #8EE4AF;
+}
+p.hire__text {
+  font-size:2;
+  line-height: 30px;
+  color: white;
+  font-weight: 400;
+}
+
+input.contact {
+  display: block;
+  width: 100%;
+  padding: 0 20px;
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  height: 50px;
+  line-height: 46px;
+  margin: 20px 0px;
+  outline: none;
+  color: #fff;
+  font-size: 15px;
+  letter-spacing: 0.1px;
+  background: none;
+  border: 2px solid hsla(0, 0%, 100%, 0.2);
+}
+
+
+textarea#message {
+  height: 120px;
+  background: none;
+  padding: 0 20 px;
+  width: 100%;
+  line-height: 46px;
+  color: #fff;
+  font-size: 15px;
+  letter-spacing: 0.1px;
+  border: 2px solid hsla(0, 0%, 100%, 0.2);
+}
+.icc{
+
+margin-top: 2rem;
+margin-right: 2rem;
+margin-bottom: 5rem;
+}
+
+.bt{
+  margin-top: 1rem;
+}
+
+h3{
+  color: aliceblue;
+}
+.get{
+margin-top: 7rem;
+font-size: 2rem;
+color: #8EE4AF;
+}
