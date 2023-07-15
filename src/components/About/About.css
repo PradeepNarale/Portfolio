@@ -8,9 +8,18 @@ p {
   font-family: "Manrope", sans-serif;
 }
 
-.abouttext{
-    font-size: 2rem;
- color: #8EE4AF;
- font-family: "Manrope", sans-serif;
+.abouttext {
+  font-size: 2rem;
+  color: #8EE4AF;
+  font-family: "Manrope", sans-serif;
 }
 
+.about-conatiner {
+  display: flex;
+}
+
+.bg-color{
+  background-color: #8ee4af;
+  padding: 25px;
+  border-radius: 76% 24% 75% 25% / 40% 39% 61% 60% ;
+}

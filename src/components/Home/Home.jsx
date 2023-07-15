@@ -34,8 +34,7 @@ function Home() {
           <div data-aos="fade-up-right">
           <h1>FULL STACK WEB DEVELOPER</h1>
           <p>
-            Hello,my name is Pradip Narale.I am a UI/UX Designer & Product
-            Designer
+            Hello,my name is Pradip Narale.I am a UI/UX Designer & Backend Developer
           </p>
           
           <Button className="bttt" variant="outline-success" href="https://github.com/PradeepNarale">Check My Work</Button>{" "}

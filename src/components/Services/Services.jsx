@@ -5,8 +5,8 @@ import { FaHtml5 } from "react-icons/fa";
 import { FaBootstrap } from "react-icons/fa";
 import { SiCss3 } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
-import { SiDjango } from "react-icons/si";
-import { SiJavascript } from "react-icons/si";
+import { IoLogoAngular } from "react-icons/io";
+import { IoLogoNodejs } from "react-icons/io";
 import { IconContext } from "react-icons";
 
 import AOS from "aos";
@@ -49,7 +49,7 @@ function Services() {
                         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
                           <FaHtml5 />
                         </a>
-                        <span>HTML</span>
+                        <span>HTML5</span>
                       </div>
                     </div>
                     <div class="col-sm">
@@ -75,7 +75,7 @@ function Services() {
                         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
                           <SiCss3 />
                         </a>
-                        <span>CSS</span>
+                        <span>CSS3</span>
                       </div>
                     </div>
                   </div>
@@ -112,9 +112,9 @@ function Services() {
                         className="card"
                       >
                         <a href="https://docs.djangoproject.com/en/4.0/">
-                          <SiDjango />
+                       <IoLogoAngular/>
                         </a>
-                        <span>Django</span>
+                        <span>Angular</span>
                       </div>
                     </div>
                     <div class="col-sm">
@@ -125,9 +125,9 @@ function Services() {
                         className="card"
                       >
                         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-                          <SiJavascript />
+                        <IoLogoNodejs/>
                         </a>
-                        <span>JavaScript</span>
+                        <span>NodeJs</span>
                       </div>
                     </div>
                   </div>
